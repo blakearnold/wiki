@@ -1718,7 +1718,7 @@ sup.reference:target {
 (min-resolution:2dppx),
 (min-resolution:192dpi) {
     .mw-wiki-logo {
-        background-image: url(/static/images/project-logos/enwiki-2x.png);
+        background-image: url(/logo.jpg);
         background-size: 135px auto
     }
 }
